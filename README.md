@@ -12,4 +12,5 @@ Los pasos representados en las tareas hijas son:
 - **Cocinar la pasta**
 - **Preparar la salsa**
 
-  ![Uploading Screenshot 2025-01-27 183434.png…]()
+![Screenshot 2025-01-27 183434](https://github.com/user-attachments/assets/021b91aa-600c-44f7-be5b-c1a34247414e)
+
