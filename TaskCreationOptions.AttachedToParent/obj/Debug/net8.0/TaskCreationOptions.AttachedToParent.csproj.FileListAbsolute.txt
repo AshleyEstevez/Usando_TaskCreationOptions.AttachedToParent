@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\bin\Debug\net8.0\TaskCreationOptions.AttachedToParent.exe
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\bin\Debug\net8.0\TaskCreationOptions.AttachedToParent.deps.json
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\bin\Debug\net8.0\TaskCreationOptions.AttachedToParent.runtimeconfig.json
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\bin\Debug\net8.0\TaskCreationOptions.AttachedToParent.dll
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\bin\Debug\net8.0\TaskCreationOptions.AttachedToParent.pdb
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\obj\Debug\net8.0\TaskCreationOptions.AttachedToParent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\obj\Debug\net8.0\TaskCreationOptions.AttachedToParent.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\obj\Debug\net8.0\TaskCreationOptions.AttachedToParent.AssemblyInfo.cs
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\obj\Debug\net8.0\TaskCreationOptions.AttachedToParent.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\obj\Debug\net8.0\TaskCreationOptions.AttachedToParent.dll
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\obj\Debug\net8.0\refint\TaskCreationOptions.AttachedToParent.dll
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\obj\Debug\net8.0\TaskCreationOptions.AttachedToParent.pdb
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\obj\Debug\net8.0\TaskCreationOptions.AttachedToParent.genruntimeconfig.cache
+C:\Users\PC\Desktop\TaskCreationOptions.AttachedToParent\obj\Debug\net8.0\ref\TaskCreationOptions.AttachedToParent.dll
